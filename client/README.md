@@ -1,0 +1,1 @@
+MY own presentational SPA with parsed file from  `https://jsonresume.org/`
